@@ -2,4 +2,3 @@
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 arch = "arm64-v8a"
 build-mode = "module"
-excluded-patches = "'GmsCore support'"
